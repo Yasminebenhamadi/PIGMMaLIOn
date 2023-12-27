@@ -1,0 +1,27 @@
+Theoretical separation information data frame>>>>>>>>>>>
+
+cluster nearestClust nearestSep farthestClust farthestSep medianSep fileName
+1	8	0.3	4	0.393	0.346	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+2	3	0.3	4	0.42	0.357	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+3	2	0.3	4	0.44	0.346	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+4	9	0.3	10	0.44	0.401	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+5	8	0.3	4	0.431	0.357	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+6	10	0.3	2	0.416	0.334	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+7	1	0.3	2	0.369	0.339	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+8	1	0.3	3	0.373	0.311	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+9	4	0.3	5	0.359	0.335	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+10	6	0.3	4	0.44	0.339	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+
+Empirical separation information data frame>>>>>>>>>>>
+
+cluster nearestClust nearestSep farthestClust farthestSep medianSep fileName
+1	7	0.3	4	0.393	0.348	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+2	3	0.301	4	0.42	0.356	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+3	2	0.301	4	0.44	0.348	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+4	9	0.3	10	0.441	0.402	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+5	8	0.3	4	0.431	0.357	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+6	10	0.301	2	0.417	0.336	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+7	1	0.3	2	0.37	0.339	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+8	5	0.3	3	0.372	0.313	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+9	4	0.3	5	0.359	0.336	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
+10	6	0.301	4	0.441	0.339	D:/paper_tests/separa/1/big-436910-0.3-30-10_1
