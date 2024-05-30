@@ -24,3 +24,12 @@ check site for more info: https://www.uio.no/studier/emner/matnat/fys/FYS4411/v1
 `g++ main.cpp -o main -larmadillo -llapack -lblas`
  
 `./main nb_increments` #where nb_increments=size_data_set/size_available_memory.
+
+
+
+To apply deadline aware and Energy efficient PIGMMALIONde, apply the following instructions 
+
+
+ `g++ pigmmalionde.cpp -o pigmmalionde -larmadillo -llapack -lblas -lstdc++fs`
+
+ `./main pigmmalionde` #where nb_increments=size_data_set/size_available_memory.
